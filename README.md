@@ -16,6 +16,7 @@ While the success rates of crowdfunding at different times of the year are impor
 ![Outcomes Based on Goal](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+During my analysis of the Kickstarter data, I did not encounter any major challenges or difficulties. However, I found that using COUNTIF() function in order to gather the data for the "Outcomes Based on Goal" chart was rather complicated. Because the data was being filtered on several different criteria, such as subcategory, goal amount, and outcome, the formulas were lengthy and I struggled to keep track of them and make sure they were all correct. A lot of the aspects of this sheet, both the data and formulas, had to be entered manually, which in general makes the process more difficult to manage. Besides this table, I had a relatively seamless experience performing the Kickstarter analysis, partially due to the fact that I have a lot of experience working with Excel, specifically in making pivot tables.
 
 ## Results
 
